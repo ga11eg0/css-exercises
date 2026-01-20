@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.odd_number{
+    background-color: pink;
+    font: verdana, 'DejaVu sans', 'san-sherif' ;   
+}
+
+#second{
+    color: rgb(10, 123, 189);
+    font-size: 36px;
+}
+
+#forth, #third {
+    font-size: 24px;
+}
+
+#forth {
+    background-color: rgb(151, 236, 151);
+    font-weight: bold;
+}
